@@ -1,0 +1,48 @@
+.dash{ 
+    display:none
+}
+.dashIcon:hover + .dash{ 
+    display:block
+}
+
+.trend{ 
+    display:none
+}
+/* .trendIcon:hover + .trend{ 
+    display:block
+} */
+
+.wallet{ 
+    display:none
+}
+.walletIcon:hover + .wallet{ 
+    display:block
+}
+
+.user{ 
+    display:none
+}
+.userIcon:hover + .user{ 
+    display:block
+}
+
+.text{ 
+    display:none
+}
+.textIcon:hover + .text{ 
+    display:block
+}
+
+.setting{ 
+    display:none
+}
+.settingIcon:hover + .setting{ 
+    display:block
+}
+
+.logout{ 
+    display:none
+}
+.logoutIcon:hover + .logout{ 
+    display:block
+}
