@@ -17,30 +17,7 @@ const Layout = () => {
              Live Market
           </div>
           <div className ='bg-white box-border z-10 h-[51px] py-[7px]  outline-none border-none flex-1'>
-             <marquee>
-            <div className='flex items-center justify-evenly'>
-             <div className='font-[Switzer] text-sm leading-[18.48px] text-black flex flex-col'>
-                <span className='font-medium'>Sorghum (SSGM)</span>
-                <span className='font-normal '>₦30,834.59</span>
-              </div>
-             <div className='font-[Switzer] text-sm leading-[18.48px] text-black flex flex-col'>
-                <span className='font-medium'>Sorghum (SSGM)</span>
-                <span className='font-normal '>₦30,834.59</span>
-              </div>
-             <div className='font-[Switzer] text-sm leading-[18.48px] text-black flex flex-col'>
-                <span className='font-medium'>Sorghum (SSGM)</span>
-                <span className='font-normal '>₦30,834.59</span>
-              </div>
-             <div className='font-[Switzer] text-sm leading-[18.48px] text-black flex flex-col'>
-                <span className='font-medium'>Sorghum (SSGM)</span>
-                <span className='font-normal '>₦30,834.59</span>
-              </div>
-             <div className='font-[Switzer] text-sm leading-[18.48px] text-black flex flex-col'>
-                <span className='font-medium'>Sorghum (SSGM)</span>
-                <span className='font-normal '>₦30,834.59</span>
-              </div>
-            </div>
-             </marquee>
+          hello
           </div>
       </div>
     </div>
